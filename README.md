@@ -16,7 +16,7 @@ mongodb https://www.mongodb.com/try/download/community <br/>
 
 step 1: open visual studio code <br> 
 
-step 2: write code for video elemets video.html <br>
+step 2: write code for video elemets +video.html <br>
 
 step 3: run the file using browser 
 
