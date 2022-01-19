@@ -14,10 +14,10 @@ node.js - Download page https://nodejs.org/en/ <br/>
 mongodb https://www.mongodb.com/try/download/community <br/>
 
 
-open visual studio code <br> 
+step 1: open visual studio code <br> 
+
+step 2: write code for video elemets video.html <br>
+
+step 3: run the file using browser 
 
 
-
-<video width="300" height="200" controls> <br>
-  <source src="video.mp4" type="video/mp4"> <br>
-</video><br>
