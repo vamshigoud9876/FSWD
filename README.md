@@ -22,7 +22,7 @@ step 2: write code for video elemets  [video.html] <br>
 
 step 3: run the file using browser <br>
 
-### audio elemets
+### Audio elemets
 
 step 1: open visual studio code <br> 
 
