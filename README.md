@@ -12,3 +12,12 @@ Visual Studio Code https://code.visualstudio.com/ <br>
 git - Installation guide https://git-scm.com/ <br/>
 node.js - Download page https://nodejs.org/en/ <br/>
 mongodb https://www.mongodb.com/try/download/community <br/>
+
+
+open visual studio code <br> 
+
+
+
+<video width="300" height="200" controls> <br>
+  <source src="video.mp4" type="video/mp4"> <br>
+</video><br>
